@@ -52,5 +52,5 @@ searchBtn.addEventListener("click", () => {
       } else {
         result.innerHTML = `<h3>Please enter a valid country name.</h3>`;
       }
-    });
+    }); 
 });
